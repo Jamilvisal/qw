@@ -15,7 +15,7 @@ except ModuleNotFoundError:
 	os.system('python FKING.py')
 import requests,json,os,sys,random,datetime,subprocess,time,re,calendar,base64,zlib,string,platform,uuid
 from bs4 import BeautifulSoup as sop	
-print('[•] Join My Facebook Group')
+print('[•] Join My  Facebook Group')
 os.system('xdg-open https://www.facebook.com/profile.php?id=100090854960457/')
 
 try:
